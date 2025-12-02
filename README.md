@@ -1,8 +1,3 @@
-Here is a **professional, polished, and GitHub-ready README.md** based fully on your *StayCatin Dataset Story* PDF visualizations .
-
-You can copy–paste this directly into your repository.
-
----
 
 # 📊 StayCatin Dataset – Data Story & Visualization Project
 
