@@ -74,6 +74,9 @@ All visualizations are extracted from the PDF analysis provided .
 * **Reviews vs Price Bubble Chart**
 * **4-Panel Combined Dashboard**
 
+* <img width="1279" height="864" alt="image" src="https://github.com/user-attachments/assets/749c3739-05ad-486b-9f69-6eed31f5303b" />
+
+
 All extracted from the uploaded PDF analysis .
 
 ---
@@ -98,6 +101,9 @@ Through this project, I strengthened my skills in:
 
 ---
 
+* Live Project Link: https://public.tableau.com/app/profile/samarth.gupta1158/viz/Book1_17498352456390/AnalysisOfDatasetStayCatin?publish=yes
+
+---
 ## 🤝 Contributions
 
 Feel free to **fork**, **raise issues**, or **suggest improvements**!
